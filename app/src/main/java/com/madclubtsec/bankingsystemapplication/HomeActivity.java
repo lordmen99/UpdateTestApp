@@ -1,4 +1,4 @@
-package com.example.bankingsystemapplication;
+package com.madclubtsec.bankingsystemapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
 

@@ -1,4 +1,4 @@
-package com.example.bankingsystemapplication;
+package com.madclubtsec.bankingsystemapplication;
 
 import org.junit.Test;
 
